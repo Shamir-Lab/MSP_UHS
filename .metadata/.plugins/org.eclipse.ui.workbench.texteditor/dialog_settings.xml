@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="uhs" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="uhs"/>
+			<item value="&gt;&gt;"/>
+			<item value="&lt;&lt;"/>
+			<item value="valTable"/>
+			<item value="twinTable"/>
+			<item value="&apos;A&apos;"/>
+			<item value="&gt;&gt; 3"/>
+			<item value="&lt;&lt; 3"/>
+			<item value="GetDec"/>
+			<item value=" - &apos;A&apos;"/>
+			<item value="- &apos;A&apos;"/>
+			<item value="% 8"/>
+			<item value="/ 8"/>
+			<item value="uhs_"/>
+			<item value="uhs_bits"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="&amp; 0b111"/>
+			<item value="&gt;&gt; 3"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="290" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="91" key="DIALOG_X_ORIGIN"/>
+		<item value="104" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

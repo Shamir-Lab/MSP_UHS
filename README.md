@@ -2,6 +2,7 @@ Description:UHS_MSP is a disk-based software to build de Bruijn graph from DNA s
 To run the software you need to get the relvant UHS from http://acgt.cs.tau.ac.il/docks/ and save it in a file as "res_k". where k is the k value of the UHS.
 
 The code is written in Java.
+
 How to run the jar file:
 java -jar MSP.jar -in InputPath -k kmerLength -L readLength –NB NumberOfBlocks –p MinimumSubstringLength –t threads -b bufferSize -r
 readable -x seed.
